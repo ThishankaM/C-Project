@@ -1,0 +1,9 @@
+thishanka,12345,customer,555-9999
+staff1,67890,staff,555-5678
+staff2,67891,staff,555-5478
+admin,admin,admin,555-0000
+pasan,5555,customer,0512224679
+oshadha,6969,staff,696969
+sachira,7878,customer,0721234567
+maheshika,0000,customer,98293869
+shavindi,12345,customer,0787255253

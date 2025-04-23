@@ -1,0 +1,6 @@
+If the program doesn't run and code dosent compile install minGW for extra compilers and in the DevC++ -> tool -> Compiler settings -> Setting -> Code generation -> Language standard -> and select ISO C++11
+The login details can are -
+	For Administrator - Username : admin	Password :admin
+	create a user and check what the system can do
+Used these sources to gain knowledge about sstream , algorithms , vectors (ChatGPT,Stackoverflow,W3schools,learncpp,hackingcpp)
+ 
